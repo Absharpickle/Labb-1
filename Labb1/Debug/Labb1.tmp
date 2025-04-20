@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\Debug\Labb1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Labb1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Labb1.map</FILE>
+  <FILE>Labb1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SIFFRA_LOOP><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>34</LINE></SIFFRA_LOOP>
+  <SIFFRA><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>139</LINE></SIFFRA>
+  <DELAY><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>39</LINE></DELAY>
+  <DELAY_OUTER_LOOP><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>42</LINE></DELAY_OUTER_LOOP>
+  <DELAY_INNER_LOOP><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>44</LINE></DELAY_INNER_LOOP>
+  <STARTBIT><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>53</LINE></STARTBIT>
+  <READ_A0><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>97</LINE></READ_A0>
+  <STARTBIT_EXIT><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>62</LINE></STARTBIT_EXIT>
+  <READ_A0_EXIT><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>102</LINE></READ_A0_EXIT>
+  <DATA><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>106</LINE></DATA>
+  <DATA_LOOP><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>113</LINE></DATA_LOOP>
+  <DATA_EXIT><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>127</LINE></DATA_EXIT>
+  <SKRIV_UT><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>132</LINE></SKRIV_UT>
+  <SIFFRA_EXIT><FILE>\\filur03.it.liu.se\students\joeeb477\Documents\Microchip Studio\7.0\Labb1\Labb1\main.asm</FILE><LINE>148</LINE></SIFFRA_EXIT>
+ </LABELS>
+</ASSEMBLER_INFO>
